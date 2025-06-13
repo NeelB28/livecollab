@@ -4,6 +4,33 @@ A real-time collaborative PDF viewer application built with Next.js, React, and 
 
 ![LiveCollab Demo](https://img.shields.io/badge/Status-Active-green) ![Next.js](https://img.shields.io/badge/Next.js-12.3.0-black) ![React](https://img.shields.io/badge/React-18.2.0-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue)
 
+## 📸 Screenshots
+
+### Home Page with PDF Upload
+
+![Home Page](docs/images/home-page.png)
+_Drag and drop interface for PDF uploads with recent documents grid_
+
+### PDF Viewer with Real-time Comments
+
+![PDF Viewer](docs/images/pdf-viewer-comments.png)
+_Collaborative PDF viewer with page-specific commenting system_
+
+### Live Comment System
+
+![Comment System](docs/images/live-comments.png)
+_Real-time comment synchronization with user presence indicators_
+
+### Multi-page PDF Navigation
+
+![PDF Navigation](docs/images/pdf-navigation.png)
+_Navigate through PDF pages with zoom controls and comment management_
+
+### User Collaboration Features
+
+![User Collaboration](docs/images/user-collaboration.png)
+_See connected users and their real-time activity_
+
 ## 🚀 Features
 
 ### Core Features
